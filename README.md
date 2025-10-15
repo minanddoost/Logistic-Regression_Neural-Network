@@ -18,11 +18,9 @@ Make sample point from text to numeric (i.e. <1 to 1)
 
 Significant figures rounding
 
-Add charge rate rate of change column
-
 Show key parameters that had largest impact on graph using matplot
 
-2015-2016 missing filter dp and sample analysis
+2015-2016 missing data(filter dp and sample analysis)
 
 Split using testing and training to check accuracy of model prediction i.e. use 80% training and 20% testing
 
